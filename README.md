@@ -1,0 +1,2 @@
+# CORS
+Configuring CORS
